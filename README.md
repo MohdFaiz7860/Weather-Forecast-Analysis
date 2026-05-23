@@ -2,7 +2,7 @@
 
 A dynamic Power BI report that fetches live weather data via the **WeatherAPI** and visualizes current conditions, forecasts, air quality, and more — all in a single interactive page.
 
----
+<img src="Weather Forecast Image.png" alt="Zepto Inventory Dashboard" width="800"/>
 
 ## 📌 Overview
 
